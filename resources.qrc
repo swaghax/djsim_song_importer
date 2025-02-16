@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="images">
+    <file>dj_sim_ico.ico</file>
+  </qresource>
+</RCC>
